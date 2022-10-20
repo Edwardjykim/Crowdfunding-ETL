@@ -1,1 +1,1 @@
-# Crowdfunding-ETL
+# I choose to skip this assignment
